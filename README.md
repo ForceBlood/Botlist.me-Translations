@@ -14,5 +14,5 @@ Translation files for Botlist.me
 2. Edit the contents of a language.js file
 3. Open a pull request to this repository with your changes
 
-#Important Note!
+# Important Note!
 Do not touch text inside `{}` as they are placeholders and must stay the same!
