@@ -1,4 +1,4 @@
-en: {
+nl: {
           discordBots: 'Discord Bots',
           bestBots: 'Vind de beste Discord Bots voor jouw server met Botlist.me',
           searchBot: 'Zoek voor een bot...',
